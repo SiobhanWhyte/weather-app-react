@@ -1,5 +1,5 @@
 import React from "react";
-import "./weather.css";
+import "./Weather.css";
 
 export default function Weather() {
   let weatherData = {
@@ -94,7 +94,7 @@ export default function Weather() {
         </div>
       </div>
       <p class="footnote">
-        <a href="https:github.com/SiobhanWhyte/weather-app-react">
+        <a href="https://github.com/SiobhanWhyte/Weather-App-SW">
           Open source code
         </a>
         , by Siobhan Whyte
