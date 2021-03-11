@@ -93,12 +93,6 @@ export default function Weather() {
           </ul>
         </div>
       </div>
-      <p class="footnote">
-        <a href="https://github.com/SiobhanWhyte/Weather-App-SW">
-          Open source code
-        </a>
-        , by Siobhan Whyte
-      </p>
     </div>
   );
 }
